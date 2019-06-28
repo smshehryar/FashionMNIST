@@ -1,2 +1,2 @@
-# Python ML
-Image Classifier with Keras 
+# Fashion MNIST - Keras
+Basic classifier made with the Keras library for the fashion MNIST
