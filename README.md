@@ -1,4 +1,4 @@
-# Fashion MNIST - Keras
+# Fashion MNIST Classifier - Keras
 Basic classifier made with the Keras library for the fashion MNIST dataset
 
 - ReLU on hidden layers
@@ -6,7 +6,7 @@ Basic classifier made with the Keras library for the fashion MNIST dataset
 - Adam Optimizer
 - CrossEntropy loss function 
 
-# MNIST - Tensorflow
+# MNIST Classifier - Tensorflow
 
 Basic classifier running on Tensorflow for MNIST dataset
 
@@ -14,3 +14,6 @@ Basic classifier running on Tensorflow for MNIST dataset
 - softmax on the output results with loss function
 - AdamOptimizer
 - CrossEntropy loss function
+
+# CNN - TensorFlow
+
