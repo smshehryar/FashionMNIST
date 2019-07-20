@@ -17,3 +17,6 @@ Basic classifier running on Tensorflow for MNIST dataset
 
 # CNN - TensorFlow
 
+# Face Dectection - OpenCV and Python
+
+# Basic GAN - TensorFlow
