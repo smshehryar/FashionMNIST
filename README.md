@@ -19,4 +19,4 @@ Basic classifier running on Tensorflow for MNIST dataset
 
 # Face Dectection - OpenCV and Python
 
-# Basic GAN - TensorFlow
+# Basic GAN - Quadratic Function - TensorFlow
